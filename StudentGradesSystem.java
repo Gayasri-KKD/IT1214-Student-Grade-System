@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-
+//Create Student class
 class Student {
     private String studentId;
     private String studentName;
