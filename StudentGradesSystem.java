@@ -16,7 +16,7 @@ class Student {
         this.marks = marks;
     }
 
-    
+    //Add student input functionality
     public String getStudentId() {
         return studentId;
     }
