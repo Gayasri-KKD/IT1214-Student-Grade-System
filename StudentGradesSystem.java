@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-//Create Student class
+
 class Student {
     private String studentId;
     private String studentName;
@@ -77,7 +77,7 @@ public class StudentGradesSystem {
         } while (choice != 5);
     }
 
-    //Add student input functionality
+   
     private static void addStudent() {
         System.out.print("Enter Student ID: ");
         String id = scanner.nextLine();
