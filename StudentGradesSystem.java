@@ -126,7 +126,7 @@ public class StudentGradesSystem {
         }
     }
 
-    
+    //Add search and average calculation
     private static void calculateAverage() {
         if (studentList.isEmpty()) {
             System.out.println("No student records available to calculate average.");
